@@ -1,8 +1,8 @@
-# Calculadora de Edad 📅
+# Calculadora de Edad 
 
 Una aplicación simple para calcular la edad en años, meses y días. Este proyecto contiene implementaciones en **C++** y **Python**.
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 ├── .gitignore              
@@ -16,7 +16,7 @@ Una aplicación simple para calcular la edad en años, meses y días. Este proye
     └── CalculadoraEdad.py  
 ```
 
-## 🚀 Versión en C++
+##  Versión en C++
 
 Para compilar y ejecutar:
 
@@ -26,7 +26,7 @@ g++ -o CalculadoraEdad CalculadoraEdad.cpp
 ./CalculadoraEdad
 ```
 
-## 🐍 Versión en Python
+##  Versión en Python
 
 Para ejecutar:
 
@@ -35,17 +35,17 @@ cd Proyecto_Python
 python CalculadoraEdad.py
 ```
 
-## 📋 Características
+##  Características
 
 - Calcula la edad en años, meses y días
 - Validación de fechas
 - Implementación en dos lenguajes diferentes
 
-## 📄 Documentación
+##  Documentación
 
 Consulta el archivo `Docs/InformeProyectoCalculadoraEdad.pdf` para más detalles sobre el proyecto.
 
-## 📜 Licencia
+##  Licencia
 
 Este proyecto está bajo la licencia especificada en el archivo `LICENSE`.
 
